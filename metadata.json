@@ -1,0 +1,6 @@
+{
+  "name": "BarStock - Gestão de Destilados e Bebidas",
+  "description": "Sistema especializado para contagem e inventário de destilados (garrafas fechadas e frações/doses) e refrigerantes, com controle rígido de estoque mínimo e pedidos de reposição.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
